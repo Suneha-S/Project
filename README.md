@@ -28,9 +28,9 @@ Dashboards
 
 Files in This Repo
 - HR_Analysis.ipynb – Python model notebook
-- predicted_attrition.xls – Source dataset with predictions
+- predicted_attrition.xls – Source dataset with predictions (After pre procesing or cleaning the data)
 - HR_ANALYTICS.pbix – Power BI Dashboard
 - HR_Analytics.pdf – Final Report with strategies and findings
-- HR_analysis - Dataset 
+- HR_analysis.csv - Dataset 
 
 
